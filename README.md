@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Verga Tandika</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vergatan10&label=Profile%20views&color=0e75b6&style=flat" alt="vergatan10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vergatan10" alt="vergatan10" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, NodeJs**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vergatan10](https://github.com/vergatan10)
 
-- 💬 Ask me about **PHP, React**
+- 💬 Ask me about **Javascript, PHP**
 
 - 📫 How to reach me **verga.tandika@gmail.com**
 
